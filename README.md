@@ -1,3 +1,5 @@
+# AI Chatbot Framework
+
 **Hybrid pipeline**:  
 1. Rule-based shortcuts (greeting, FAQ)  
 2. Tool calls (n8n webhook)  
